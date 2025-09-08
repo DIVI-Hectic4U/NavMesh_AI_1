@@ -1,14 +1,17 @@
 🧠 Unity AI NavMesh Learning Project
 
 A beginner-friendly Unity project demonstrating AI navigation using Unity’s NavMesh system.
-In this project, a simple rolling ball acts as a Player and A Cube act as an AI agent that navigates across the scene, avoids obstacles, and Chases the Player Automatically.
+In this project:
+A rolling ball acts as the Player, collecting items in the scene.
+A Cube acts as the AI Agent, which navigates using NavMesh, avoids obstacles, and chases the Player automatically.
+
 
 ✨ Features
-🎮 AI-Controlled Agent – A Cube with physics-based rolling behavior controlled via NavMeshAgent.
+🎮 AI-Controlled Agent – A cube controlled via NavMeshAgent to chase the player.
 🗺️ Dynamic Navigation Mesh – Environment baked with NavMeshObjects for walkable areas.
-🪙 Collectible Items – Player agent actively seeks and collects placed collectibles.
-🚧 Obstacle Handling – Agent detects and avoids obstacles while moving to targets.
-📚 Learning-Focused – A simple, clean project to understand how Unity NavMesh AI works.
+🪙 Collectible Items – The player ball actively seeks and collects collectibles.
+🚧 Obstacle Handling – AI agent detects and avoids obstacles while moving.
+📚 Learning-Focused – A clean project to understand how Unity NavMesh AI works.
 
 🛠️ Tech Stack
 Engine: Unity (2021.3 LTS or later recommended)
@@ -20,6 +23,7 @@ Physics: Rigidbody-based ball movement
 1️⃣ Clone the Repository
 git clone https://github.com/DIVI-Hectic4U/NavMesh_AI_1.git
 cd NavMesh_AI_1
+
 
 2️⃣ Open in Unity
 Open Unity Hub
