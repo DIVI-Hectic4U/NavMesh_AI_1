@@ -1,3 +1,7 @@
+
+<img width="2048" height="2048" alt="Gemini_Generated_Image_qknj19qknj19qknj" src="https://github.com/user-attachments/assets/be22bdb3-ef9d-4751-89c8-f7718b185d00" />
+
+
 🧠 Unity AI NavMesh Learning Project
 
 A beginner-friendly Unity project demonstrating AI navigation using Unity’s NavMesh system.
